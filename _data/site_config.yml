@@ -79,7 +79,7 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: SDG gateway
     content: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
       cursus est sed dapibus.
@@ -87,7 +87,7 @@ frontpage_cards:
     button_label: Read more
     button_link: 'https://example.com'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: Data explorer
     content: |
       Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
       interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
@@ -96,8 +96,8 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: frontpage.heading_short
-  description: frontpage.instructions_shorter
+  title: Our data for Sustaianble Development Goal indicators (country)
+  description: Sustaianble Development Goal indicators (country)
 frontpage_introduction_banner:
   title: frontpage.intro_title
   description: frontpage.intro_body
