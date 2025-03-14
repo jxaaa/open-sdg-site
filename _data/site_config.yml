@@ -246,7 +246,7 @@ site_config_form:
   enabled: true
   dropdowns: []
   repository_link: /tree/develop/_data
-  translation_link: ''
+  translation_link: "https://raw.githubusercontent.com/jxaaa/open-sdg-data/main/translations/es/my-custom-translations.yml
 time_series_attributes:
   - field: COMMENT_TS
     label: indicator.footnote
